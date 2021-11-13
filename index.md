@@ -10,7 +10,7 @@ page_sections:
       - link: "/"
         link_text: Ubuild
       - link: "#swap"
-        link_text: Swap
+        link_text: Swwap
       - link: "#customize"
         link_text: Customize
       - link: "#responsive"
